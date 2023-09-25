@@ -1,0 +1,14 @@
+{
+  "name": "ai_ui",
+  "version": "1.0.0",
+  "description": "For AI",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jiang",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.2.2"
+  }
+}
